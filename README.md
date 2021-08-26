@@ -1,5 +1,9 @@
 # Community Sidekicks
 
+## License
+
+![MIT License](https://img.shields.io/badge/License-MIT-brightgreen)
+
 ## Introduction
 
 “Community Sidekicks” is a humanitarian website in which you can sign up to donate your time to a number of organizations in search of people willing to do volunteer work. Non-profit organizations can create an account and see a list of volunteers, and volunteers can sign up to be viewed and vetted by organizations.
