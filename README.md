@@ -1,19 +1,32 @@
 # Community Sidekicks
 
+## Table of Contents
+
+1. [License](#license)
+2. [Description](#description)
+3. [Usage](#usage)
+4. [Technologies](#technologies)
+5. [Tests](#tests)
+6. [Contributors](#contributors)
+
 ## License
 
 ![MIT License](https://img.shields.io/badge/License-MIT-brightgreen)
 
-## Introduction
+## Description
 
 “Community Sidekicks” is a humanitarian website in which you can sign up to donate your time to a number of organizations in search of people willing to do volunteer work. Non-profit organizations can create an account and see a list of volunteers, and volunteers can sign up to be viewed and vetted by organizations.
 
-## User Story
+## Usage
 
 - As a user, I want to be able to open to the landing page and read the description of this webpage, and choose whether to create an account as an organization, log in as an organization, or sign up as a volunteer.
 - As an organization, I want to be able to be taken to the create account page or login in page and view volunteers that have signed up
 - As a volunteer, I want to be able to sign up and see a page that confirms my successful sign-up.
 
+
+## Technologies
+- Javascript, Express, Sequelize, Mysql, Bcrypt
+- 
 ## Deployment
 
 https://community-sidekicks.herokuapp.com/
