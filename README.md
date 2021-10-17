@@ -6,8 +6,9 @@
 2. [Description](#description)
 3. [Usage](#usage)
 4. [Technologies](#technologies)
-5. [Tests](#tests)
-6. [Contributors](#contributors)
+5. [Deployment](#deployment)
+6. [Tests](#tests)
+7. [Contributors](#contributors)
 
 ## License
 
@@ -26,17 +27,15 @@
 
 ## Technologies
 - Javascript, Express, Sequelize, Mysql, Bcrypt
-- 
+
 ## Deployment
+Users can find the deployed application on Heroku at : https://community-sidekicks.herokuapp.com/
 
-https://community-sidekicks.herokuapp.com/
+## Tests
+There are no tests for this application.
 
-## Github Repository
-
-https://github.com/pazjenni04/community-sidekicks
-
-## Maintainers
-
+## Contributors:
+Contributors include: 
 - Jennnifer Davila (https://github.com/pazjenni04)
 - Grace Butler (https://github.com/gbutler3)
 - Janay Allen (https://github.com/janayAl)
