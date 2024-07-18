@@ -29,7 +29,7 @@
 - Javascript, Express, Sequelize, Mysql, Bcrypt
 
 ## Deployment
-Users can find the deployed application on Heroku at : https://community-sidekicks.herokuapp.com/
+Users can find the deployed application on Heroku at : https://community-sidekicks-gracereed-bb236762.koyeb.app/
 
 ## Tests
 There are no tests for this application.
