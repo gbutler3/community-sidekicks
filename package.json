@@ -28,10 +28,11 @@
     "express-router": "0.0.1",
     "express-session": "^1.17.2",
     "express-session-sequelize": "^2.3.0",
-    "mysql": "^2.18.1",
+    "mysql2": "^3.10.3",
+    "semver": "^7.6.3",
     "sequelize": "^6.6.5"
   },
   "devDependencies": {
-    "nodemon": "^2.0.12"
+    "nodemon": "^3.1.4"
   }
 }
