@@ -24,21 +24,21 @@ app.use(session(sess));
 const helpers = require("./utils/helpers");
 const hbs = exphbs.create({ helpers });
 
-//connects to handlebars
+// Connect to Handlebars
 app.engine("handlebars", hbs.engine);
 app.set("view engine", "handlebars");
 
-//middleware
+// Middleware
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static(path.join(__dirname, "public")));
 
 const routes = require("./controllers");
 
-// turn on routes
+// Turn on routes
 app.use(routes);
 
-// turn on connection to db and server
+// Turn on connection to DB and server
 sequelize.sync({ force: false }).then(() => {
-  app.listen(PORT, () => console.log("Listening on port 3001!"));
+  app.listen(PORT, () => console.log(`Listening on port ${PORT}!`));
 });
